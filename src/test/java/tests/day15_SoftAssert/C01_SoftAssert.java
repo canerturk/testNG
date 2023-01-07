@@ -54,5 +54,6 @@ public class C01_SoftAssert {
 
         softAssert.assertAll(); // softasserti kullandigimizda kapanis icin en alta bunu yazmaliyiz
         Driver.closeDriver();
+        // test1
     }
 }
